@@ -1,0 +1,17 @@
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.AssemblyReference.cache
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.Form1.resources
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.GenerateResource.cache
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.AssemblyInfoInputs.cache
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.AssemblyInfo.cs
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.CoreCompileInputs.cache
+E:\Projects\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.exe
+E:\Projects\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.deps.json
+E:\Projects\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.runtimeconfig.json
+E:\Projects\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.dll
+E:\Projects\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.pdb
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.dll
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\refint\FileManager.dll
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.pdb
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.genruntimeconfig.cache
+E:\Projects\FileManager\FileManager\obj\Debug\net6.0-windows\ref\FileManager.dll
